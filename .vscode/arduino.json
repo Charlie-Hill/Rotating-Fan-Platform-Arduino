@@ -1,0 +1,7 @@
+{
+    "port": "COM5",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:avrisp",
+    "sketch": "RotatingFan\\RotatingFan.ino"
+}
